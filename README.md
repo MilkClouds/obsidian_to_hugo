@@ -2,6 +2,9 @@
 **Features: Obsidian wikilink, img, video to hugo ref, figure, video.**  
 **Tested on Windows 11(Supporting Windows!)**
 
+## Usage
+`python convert.py`
+
 # Arguments
 ```
     parser.add_argument("--hugo-dir", default = Path("../blog"))
