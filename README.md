@@ -8,7 +8,7 @@
 # Feature
 Obsidian wikilink, img, video to hugo ref, figure, video.  
 **Only obsidian attachments which is mentioned on content is copied to hugo attachment folder!**  
-Hugo Content, Hugo Attachments, Obsidian Attachments, Obsidian Contents, ..., **everything** is not removed by running this program. (It do not execute removal command). But override by copy can be occured. If you misuse this several time(e.g. changing file name and run this several time) there may exist many unused files, so be cautious about this.
+Hugo Content, Hugo Attachments, Obsidian Attachments, Obsidian Contents, ..., **everything** is not removed by running this program. (**It do not execute removal command**). But override by copy can be occured. If you misuse this several time(e.g. changing file name and run this several time) there may exist many unused files, so be cautious about this.
 
 # Arguments
 ```
